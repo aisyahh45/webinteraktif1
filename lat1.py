@@ -2,6 +2,7 @@ import streamlit as st
 from page1 import page_1
 from page2 import page_2
 from page3 import page_3
+from page4 import page_4
 
 # import pandas as pd
 #import matplotlib.pyplot as plt
@@ -20,7 +21,8 @@ from page3 import page_3
 PAGES = {
                 "page 1" : page_1,
                 "page 2" : page_2,
-                "page 3" : page_3
+                "page 3" : page_3,
+                "Hitung Luas" : page_4 
 }
 
 st.sidebar.image("bear_1.jpg", width=200)
