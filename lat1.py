@@ -25,6 +25,6 @@ PAGES = {
                 "Hitung Luas" : page_4 
 }
 
-st.sidebar.image("bear_1.jpg", width=200)
+st.sidebar.image("bear.png", width=200)
 page = st.sidebar.radio("halaman", list(PAGES.keys()))
 PAGES[page]()
