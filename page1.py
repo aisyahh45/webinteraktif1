@@ -1,6 +1,6 @@
 import streamlit as st
 def page_1():
     st.title("sinopsis")
-    st.write('Masha And The Bear menceritakan sebuah petualangan antara seorang gadis bernama masha dan temannya yang peduli, beruang (mishka) dan pasangan beruang betina (bertha) yang selalu menyelamatkannya dari bencana')
+    st.write('Boku No Hero Academia mengisahkan tentang izuku midoriya (deku),seorang anak lelaki tanpa kekuatan super (quirk) didunia tempat hal seperti itu sudah menjadi sesuatu yang umum, tetapi masih bercita-cita untuk menjadi seorang pahlawan')
     st.image("bear.png",width=400)
     
