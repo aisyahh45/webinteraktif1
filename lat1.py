@@ -40,7 +40,10 @@ st.markdown(
             [data-testid="baseButton-header"] {
                 display: none;
             }
-    
+            
+            #MainMenu {visibility: hidden;}
+            footer {visibilty: hidden;}
+        
             </style>,
             """,
     unsafe_allow_html=True,
