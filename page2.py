@@ -8,4 +8,8 @@ def page_2():
     st.video('https://www.youtube.com/watch?v=jKlxg-q6UJ0')
     st.video('https://www.youtube.com/watch?v=TXHMPjD5-R0')
     st.video('https://www.youtube.com/watch?v=vxh4PlKfGls')
+    st.video('https://www.youtube.com/watch?v=c-cWItEsoy4')
+    st.video('https://www.youtube.com/watch?v=2EFMRwOW8_I')
+    st.video('https://www.youtube.com/watch?v=DX-xHBHWQd4')
+    st.video('https://www.youtube.com/watch?v=bI_ivRxRVSU')
     
