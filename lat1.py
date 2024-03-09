@@ -33,15 +33,15 @@ PAGES[page]()
 
 st.markdown(
     """
-        <style>
-        [data-testid="stActionBittonIcon"] {
+            <style>
+            [data-testid="stActionBittonIcon"] {
             display: none;
-        }
-        [data-testid="baseButton-header"] {
+            }
+            [data-testid="baseButton-header"] {
             display: none;
-        }
+            }
     
-        </style>,
-        """,
+            </style>,
+            """,
     unsafe_allow_html=True,
 )
